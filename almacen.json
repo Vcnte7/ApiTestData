@@ -1,0 +1,70 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "rut": "15357092-2",
+      "username": "ususario1",
+      "email": "usuario1@gmail.com",
+      "carrera": "Ingenieria en Informatica",
+      "password": "duoc1234",
+      "isactive": true
+
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "duoc1234",
+      "email": "usuario2@gmail.com",
+      "rut": "15345692-2",
+      "carrera": "Ingenieria en Minas",
+      "isactive": true
+    },
+    {
+      "id": "fd59",
+      "username": "Vicente",
+      "email": "asa@gmcil.com",
+      "password": "Gaspar7754",
+      "rut": "15312322-2",
+      "carrera": "Ingenieria en Logistica",
+      "isactive": true
+    },
+    {
+      "id": "0343",
+      "username": "francs",
+      "email": "adsjgh@gmail.com",
+      "password": "Gaspar7754",
+      "rut": "15353332-2",
+      "carrera": "Personal Trainer",
+      "isactive": true
+    },
+    {
+      "id": "512d",
+      "username": "Roberto",
+      "email": "vicsk@gmail.com",
+      "password": "Gaspar7754",
+      "rut": "21235678-1",
+      "carrera": "Ingenieria en Informatica",
+      "isactive": true
+    }
+  ],
+  "asignaturas": [
+    {
+      "idA": "1",
+      "nombreA": "Programacion Web",
+      "seccion": "009D",
+      "profesor":"Agustina"
+    },
+    {
+      "idA": "2",
+      "nombreA": "Base de datos",
+      "seccion": "005V",
+      "profesor":"Julian"
+    },
+    {
+      "idA": "aedd",
+      "nombreA": "Mentalidad emprendedora",
+      "seccion": "025D",
+      "profesor":"Roberto"
+    }
+  ]
+}
