@@ -8,7 +8,6 @@
       "carrera": "Ingenieria en Informatica",
       "password": "duoc1234",
       "isactive": true
-
     },
     {
       "id": "2",
@@ -45,6 +44,15 @@
       "rut": "21235678-1",
       "carrera": "Ingenieria en Informatica",
       "isactive": true
+    },
+    {
+      "id": "6896",
+      "username": "cachupina",
+      "rut": "11111111-1",
+      "email": "cachupina@duoc.cl",
+      "carrera": "Ingenieria",
+      "password": "duoc1234",
+      "isactive": true
     }
   ],
   "asignaturas": [
@@ -52,19 +60,88 @@
       "idA": "1",
       "nombreA": "Programacion Web",
       "seccion": "009D",
-      "profesor":"Agustina"
+      "profesor": "Agustina",
+      "id": "029f"
     },
     {
       "idA": "2",
       "nombreA": "Base de datos",
       "seccion": "005V",
-      "profesor":"Julian"
+      "profesor": "Julian",
+      "id": "af06"
     },
     {
       "idA": "aedd",
       "nombreA": "Mentalidad emprendedora",
       "seccion": "025D",
-      "profesor":"Roberto"
+      "profesor": "Roberto",
+      "id": "6757"
+    }
+  ],
+  "qrData": [
+    {
+      "id": "c40e",
+      "profesor": "Julian",
+      "asignatura": "Base de datos",
+      "rut": "15312322-2",
+      "username": "Vicente",
+      "fecha": "2024-11-20T03:49:54.077Z"
+    },
+    {
+      "id": "8767",
+      "profesor": "Roberto",
+      "asignatura": "Mentalidad emprendedora",
+      "rut": "15312322-2",
+      "username": "Vicente",
+      "fecha": "2024-11-20T04:43:27.042Z"
+    },
+    {
+      "id": "d785",
+      "profesor": "Roberto",
+      "asignatura": "Mentalidad emprendedora",
+      "rut": "15312322-2",
+      "username": "Vicente",
+      "fecha": "2024-11-21T04:16:24.715Z"
+    }
+  ],
+  "justificaciones": [
+    {
+      "id": "95e2",
+      "nombre": "Vicente",
+      "fecha": "2021-05-12T01:33:00",
+      "asignatura": "Programacion Web",
+      "motivo": "Dolor de cabeza",
+      "comentarioProfesor": "Okay lo dejare justificado"
+    },
+    {
+      "id": "79e2",
+      "nombre": "Vicente",
+      "fecha": "2021-05-20T17:08:00",
+      "asignatura": "Mentalidad emprendedora",
+      "motivo": "Dolor de guata",
+      "comentarioProfesor": ""
+    }
+  ],
+  "Profesores": [
+    {
+      "id": "5e3d",
+      "username": "Robert",
+      "email": "robert@duoc.cl",
+      "password": "Gaspar7754",
+      "rut": "16345666-5",
+      "carrera": "Ingenieria en Informatica",
+      "isactive": true,
+      "qrEscaneados": []
+    },
+    {
+      "id": "c632",
+      "username": "Vicente",
+      "email": "vicent@gmil.com",
+      "password": "Gaspar7754",
+      "rut": "212379182",
+      "carrera": "Psicologia",
+      "isactive": true,
+      "qrEscaneados": []
     }
   ]
 }
